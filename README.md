@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+- 🎓 Pursuing BE in Computer Science and Design
+- 🏫 Student at Canara Engineering College
+- 🌱 Passionate about Learning and Innovating in the Tech World
+- 🤝 Eager to Collaborate on Exciting and Challenging Projects
+- 📚 Hobbies Include Reading Novels and Drawing
+- 📬 How to reach me: www.linkedin.com/in/anusha-pandit-a11246263
+
 <!--
 **Anusha-Pandit/Anusha-Pandit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
